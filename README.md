@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Where2Retail as a trainee<br>🌱 I’m currently learning MERN Stack
+🔭 I’m currently looking for a job<br>🌱 I’m currently learning MERN Stack
 
 
 ## 🌐 Socials:
