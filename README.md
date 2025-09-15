@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking for a job<br>🌱 I’m currently learning MERN Stack
+I'm a software engineer with 2 years of professional experience. I work daily in collaborative environments, where I stand out for my ability to communicate, manage priorities, and meet deadlines with precision. I have a special interest in Java backend development, with experience in agile environments and a focus on delivering robust solutions. I seek to continue to evolve technically and actively contribute to challenging and innovative projects.
 
 
 ## 🌐 Socials:
